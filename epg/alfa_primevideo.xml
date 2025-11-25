@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="pyLowEPG by HL -- version V1.0 -- Helmer Luzo" generator-info-url="pyLowEPG by HL">
 	<programme start="20251125183043 +0100" stop="20251125185755 +0100" channel="Sony One - Series Comedia">
 		<title lang="es">Seinfeld • T07E04 • The Wink</title>
 		<desc lang="es">Cuando a George le entra jugo de pomelo en el ojo, acaba provocando una serie de sucesos de lo más disparatados.</desc>
@@ -588,3 +590,4 @@
 		<desc lang="es">Película • 🇬🇧 1996 • Drama • ⑫\n\n• Reparto: Brenda Blethyn, Timothy Spall, Phyllis Logan\n• Dirección: Mike Leigh\n\n• Hortense es una optometrista de color que a la muerte de sus padres adoptivos descubre con sorpresa que su madre biológica es Cynthia, una mujer blanca de mediana edad. Cynthia es una madre soltera que trabaja en una fábrica y convive con su problemática hija. Tras conocerse, Cynthia la invita a la fiesta de cumpleaños de su hija. Ganadora de la Palma de Oro en el Festival de Cannes.\n\n• acontra+/mediaset infinity</desc>
 		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/mp/v5/esp/M010898200000100/image_vertical/600/900?r=+zhwtixxDLzE3GBsgOOgIBLXZaY="/>
 	</programme>
+</tv>
